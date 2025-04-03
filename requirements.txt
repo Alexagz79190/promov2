@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Interface utilisateur
+streamlit==1.29.0
+
+# Manipulation de données
+pandas==2.1.4
+openpyxl==3.1.2
+
+# Gestion de dates (implémentée dans pandas, mais utile à expliciter)
+python-dateutil==2.8.2
